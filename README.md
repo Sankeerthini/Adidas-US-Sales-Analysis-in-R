@@ -6,7 +6,7 @@ This project analyzes the sales performance of Adidas across various regions of 
 
 ## R Analysis
 
-# Key Metrics
+### Key Metrics
 
 **$899,902,125** - Total Sales <br />
 **2,478,861** - Total Units Sold <br />
