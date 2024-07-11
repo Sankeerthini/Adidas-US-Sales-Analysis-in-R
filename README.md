@@ -41,12 +41,12 @@ These metrics indicate that Adidas has achieved substantial sales volume and rev
 
 ## Conclusions and Recommendations
 
-- Total sales amounted to $899,902,125, with 2,478,861 units sold. This indicates a strong market presence and effective sales strategies.<br />Recommendation: Continue to innovate and diversify product lines to maintain and boost sales figures.
+- Total sales amounted to $899,902,125, with 2,478,861 units sold. This indicates a strong market presence and effective sales strategies.<br />**Recommendation:** Continue to innovate and diversify product lines to maintain and boost sales figures.
 
-- Total sales by state reveal that New York, California, Florida, and Texas are the leading states in sales. Recommendation: Tailor marketing campaigns and promotional activities specifically for these high-performing states to further enhance sales.
+- Total sales by state reveal that New York, California, Florida, and Texas are the leading states in sales.<br />**Recommendation:** Tailor marketing campaigns and promotional activities specifically for these high-performing states to further enhance sales.
 
-- The pie chart breaks down total sales by different sales methods, showing that in-store sales contribute 39.63%, outlet sales 32.85%, and online sales 27.52%. Recommendation: Enhance online sales strategies through improved user experience and targeted online marketing to increase the online sales proportion, as this channel has significant growth potential.
+- The pie chart breaks down total sales by different sales methods, showing that in-store sales contribute 39.63%, outlet sales 32.85%, and online sales 27.52%.<br />**Recommendation:** Enhance online sales strategies through improved user experience and targeted online marketing to increase the online sales proportion, as this channel has significant growth potential.
 
-- Top-selling products include Men's Street Footwear and Men's Athletic Footwear. Recommendation: Focus on promoting these top-selling products through targeted advertising and ensure they are well-stocked across all sales channels.
+- Top-selling products include Men's Street Footwear and Men's Athletic Footwear.<br />**Recommendation:** Focus on promoting these top-selling products through targeted advertising and ensure they are well-stocked across all sales channels.
 
-- The average operating margin is 42.30%. Recommendation: Continue to monitor and optimize operational costs to maintain or improve the operating margin, ensuring long-term profitability.
+- The average operating margin is 42.30%.<br />**Recommendation:** Continue to monitor and optimize operational costs to maintain or improve the operating margin, ensuring long-term profitability.
