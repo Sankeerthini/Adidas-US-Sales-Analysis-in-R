@@ -8,7 +8,7 @@ This project analyzes the sales performance of Adidas across various regions of 
 
 # Key Metrics
 
-**$899,902,125** - Total Sales
+**$899,902,125** - Total Sales <br />
 **2,478,861** - Total Units Sold
 **$332,134,761** - Total Operating Profit
 **42.30%** - Average Operating Margin
