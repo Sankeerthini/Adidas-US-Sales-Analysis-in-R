@@ -12,27 +12,31 @@ This project analyzes the sales performance of Adidas across various regions of 
 
 ### Key Metrics
 
-**$899,902,125** - Total Sales <br />
-**2,478,861** - Total Units Sold <br />
-**$332,134,761** - Total Operating Profit <br />
-**42.30%** - Average Operating Margin <br />
+**Total Sales -** $899.90M<br />
+**Total Units Sold -** 2.48M<br />
+**Total Operating Profit -** $332.13M<br />
+**Average Operating Margin -** 42.30%<br />
 
 These metrics indicate that Adidas has achieved substantial sales volume and revenue. The high total sales and units sold reflect a strong market presence and demand for their products. The significant operating profit and average operating margin suggest efficient operations and effective cost management, resulting in robust profitability.
 
 **Total Sales Over Time and Operating Margin Over Time:** The line charts show trends in total sales and operating margins over time. Peaks in sales activity reveal periods of high consumer demand, while fluctuations in operating margins indicate changes in profitability, potentially due to varying cost structures or strategic adjustments.
 
+## Regional Sales Analysis
 ![Region](https://drive.google.com/uc?export=view&id=1E4YgGyV7n1WmJCUVgfeS1Q7x-XGPg6ZA)
 
 **Sales by Region and Total Sales by US State:** The visualizations reveal the geographical distribution of sales, highlighting regions and states that contribute most significantly to total sales. This information is crucial for identifying high-performing areas and regions with potential for improvement, guiding resource allocation and marketing strategie. The analysis reveals that New York and California are the top most in sales.
 
+## Sales by Sales Methods
 ![Sales Method](https://drive.google.com/uc?export=view&id=15AC67VrenTSndFOXCJXw1IpAJZalIU0L)
 
-**Total Sales by Sales Method:** The pie chart breaks down total sales by different sales methods. Understanding which sales channels are the most effective helps in optimizing strategies and focusing efforts on the most productive methods. There looks to be not much of a significant different in the sales methods with In-store and reta
+**Total Sales by Sales Method:** The pie chart breaks down total sales by different sales methods. Understanding which sales channels are the most effective helps in optimizing strategies and focusing efforts on the most productive methods.
 
+## Top 5 Products Sold
 ![Top 5](https://drive.google.com/uc?export=view&id=1KkCdukaWg4OlZdFFrS1FO2cVhKVVIXwN)
 
 **Top 5 Products by Units Sold:** The bar chart lists the top five products based on units sold, highlighting the most popular products. This can guide marketing efforts and production planning to capitalize on the demand for these products.
 
+## Retailers Data
 ![Retailers](https://drive.google.com/uc?export=view&id=1tDZxwMi3__pilhdXYYbO8pEVY7Jzy93A)
 
 **Retailers Table:** The table provides detailed information on sales and units sold by retailer, including retailer IDs, states, and cities. This offers insights into the performance of individual retailers, helping to make informed partnership decisions and improve overall sales performance.
